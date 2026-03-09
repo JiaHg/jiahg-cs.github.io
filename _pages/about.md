@@ -136,7 +136,7 @@ Her research broadly lies in computer vision and deep learning. Currently focuse
   </div>
 </div>
 
-<a class="cv-btn" href="/files/CV_JiafanLiu.pdf" download>📄 Download CV</a>
+<a class="cv-btn" href="../files/CV_JiafanLiu.pdf" download>📄 Download CV</a>
 
 ---
 
